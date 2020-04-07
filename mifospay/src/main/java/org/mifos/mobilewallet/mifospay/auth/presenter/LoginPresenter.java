@@ -70,8 +70,9 @@ public class LoginPresenter implements AuthContract.LoginPresenter {
                     @Override
                     public void onSuccess(AuthenticateUser.ResponseValue response) {
                         createAuthenticatedService(response.getUser());
-                        fetchClientData();
+//                        fetchClientData();
                         fetchUserDetails(response.getUser());
+                        mLoginView.loginSuccess();
                     }
 
                     @Override

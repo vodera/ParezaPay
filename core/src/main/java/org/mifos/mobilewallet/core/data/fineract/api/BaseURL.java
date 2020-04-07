@@ -8,11 +8,13 @@ public class BaseURL {
 
     public static final String PROTOCOL_HTTPS = "https://";
 
-    public static final String API_ENDPOINT = "demo.openmf.org";
+//    public static final String API_ENDPOINT = "demo.openmf.org";
+    public static final String API_ENDPOINT = "kyc.parezapay.com:8443";
     public static final String API_PATH = "/fineract-provider/api/v1/";
 
     //self service url
-    public static final String API_ENDPOINT_SELF = "demo.openmf.org";
+//    public static final String API_ENDPOINT_SELF = "demo.openmf.org";
+    public static final String API_ENDPOINT_SELF = "kyc.parezapay.com:8443";
     public static final String API_PATH_SELF = "/fineract-provider/api/v1/self/";
 
 

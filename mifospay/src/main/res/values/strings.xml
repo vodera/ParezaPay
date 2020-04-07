@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Mifos Pay</string>
+    <string name="app_name">Pareza KYC</string>
 
     <string name="open_drawer">Open Drawer</string>
     <string name="close_drawer">Close Drawer</string>
@@ -35,7 +35,7 @@
     <string name="payments">Payments</string>
     <string name="finance">Finance</string>
     <string name="profile">Profile</string>
-    <string name="mifos_pay">Mifos Pay</string>
+    <string name="mifos_pay">PGC16 Wallet</string>
     <string name="login">Login</string>
     <string name="enter_name_or_vpa">Enter name or vpa</string>
     <string name="balance_hint">Total balance</string>

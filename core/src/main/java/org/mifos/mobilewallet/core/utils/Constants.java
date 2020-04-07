@@ -47,6 +47,7 @@ public class Constants {
     public static final String ERROR_FETCHING_CLIENT_DATA = "Error fetching client data";
     public static final String NO_CLIENT_FOUND = "No client found";
     public static final String ERROR_LOGGING_IN = "Error logging in";
+    public static final String ERROR_LOGGING_IN_2 = "User has no permission to use this platform";
     public static final String ERROR_FETCHING_REMOTE_ACCOUNT_TRANSACTIONS =
             "Error fetching remote account transactions";
     public static final String PDF = "PDF";
